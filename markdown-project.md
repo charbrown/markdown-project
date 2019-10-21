@@ -4,7 +4,7 @@ IRELANDS RUGGED COAST YIELDS
 **Priceless Relics of the Spanish Armada**
 ======================================
 
-###### by **Robert Sténuit** ######
+by **Robert Sténuit**
 
 *Illustrations by National Geographic*
 
@@ -20,12 +20,11 @@ The wind won. White water boiled off the starboard bow. A scream from the lookou
 
 **Four centuries later the shipwreck was discovered under 30 feet of icy water, treasures lost on that fateful day included:**
 
- <ul>
- <li><p>A ornamental winged salamander</li>
-<li><p>Gold cross of the Knight of Malta</li>
-<li><p>Gilded brass dolphin
-Lapis lazuli cameos</li>
-<li><p>Silver sculpture of a grotesque face.</li>
-<li><p>Gold ducats</li>
+- A ornamental winged salamander
+- Gold cross of the Knight of Malta
+- Gilded brass dolphin
+- Lapis lazuli cameos
+- Silver sculpture of a grotesque face.
+- Gold ducats
 
 **The Author:**  *Veteran Belgin dicer Robert Sténuit spent two days at 432 feet beneath the sea in a pioneering test he described in “The Deepest Days”, National Geographic, April 1965. Here he tells the dramatic story of finding the Girona.*
